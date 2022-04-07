@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://twitter.com/Hugo09H/</loc>
+    <loc>https://example.com/</loc>
     <lastmod>2022-02-21T18:16:21-06:00</lastmod>
   </url><url>
-    <loc>https://twitter.com/Hugo09H/posts/intro/</loc>
+    <loc>https://example.com/posts/intro/</loc>
     <lastmod>2022-02-21T18:16:21-06:00</lastmod>
   </url><url>
-    <loc>https://twitter.com/Hugo09H/posts/</loc>
+    <loc>https://example.com/posts/</loc>
     <lastmod>2019-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://twitter.com/Hugo09H/pages/about/</loc>
+    <loc>https://example.com/pages/about/</loc>
   </url><url>
-    <loc>https://twitter.com/Hugo09H/categories/</loc>
+    <loc>https://example.com/categories/</loc>
   </url><url>
-    <loc>https://twitter.com/Hugo09H/pages/</loc>
+    <loc>https://example.com/pages/</loc>
   </url><url>
-    <loc>https://twitter.com/Hugo09H/tags/</loc>
+    <loc>https://example.com/tags/</loc>
   </url>
 </urlset>
